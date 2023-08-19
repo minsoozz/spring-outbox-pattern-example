@@ -1,4 +1,4 @@
-# saga-pattern-example
+# outbox-pattern-example
 
 ## 기능 요구사항
 
